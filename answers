@@ -1,0 +1,109 @@
+SE_Day1_Assignment
+
+Part 1: Introduction to Software Engineering
+
+What is software engineering, and why is it important?
+
+Software engineering is a field within computer science that focuses on the design, development, testing, and maintenance of software applications. It plays a critical role in today’s tech-driven world by ensuring software is built efficiently and reliably.
+
+It’s important because:
+
+It ensures reliability, which is essential for software used in sensitive fields like healthcare and finance.
+
+It boosts efficiency by streamlining developer workflows while maintaining quality.
+
+It provides scalability and flexibility, allowing systems to grow and adapt without breaking.
+
+It strengthens security by implementing key protections like authentication and encryption.
+
+Key milestones in the evolution of software engineering
+
+Mastering complexity: Learning how to manage and organize complex systems.
+
+Mastering process: Standardizing software development with structured methods and life cycles.
+
+Mastering machine: Adapting to ever-evolving hardware and software environments.
+
+Phases of the Software Development Life Cycle (SDLC)
+
+Planning: Outlining the software’s purpose and scope.
+
+Requirement analysis: Gathering what the end user wants and needs.
+
+Design: Creating the architecture or blueprint of the software.
+
+Coding: Turning the design into functional code.
+
+Testing: Checking the software for bugs and verifying it meets expectations.
+
+Comparing Waterfall and Agile methodologies
+
+Waterfall is a linear process where each phase is completed before moving on. It’s more rigid and best suited for projects with fixed requirements like infrastructure systems.
+
+Agile is flexible and works in short iterations or sprints. It allows for frequent updates and feedback, making it ideal for software that evolves over time, like mobile apps.
+
+Roles in a software team
+
+Software Developer: Writes and maintains code, collaborates with team members, and reports progress.
+
+Quality Assurance Engineer: Ensures the software meets standards, finds bugs, and helps maintain quality throughout development.
+
+Project Manager: Coordinates the team, communicates with clients, tracks progress, and ensures timely delivery.
+
+Importance of IDEs and VCS
+
+IDEs (like Visual Studio Code) provide a one-stop environment for coding, debugging, and testing. They improve productivity with features like syntax highlighting, code suggestions, and built-in debuggers.
+
+VCS (like Git) helps developers manage code changes over time. It makes teamwork easier, supports tracking changes, allows safe experimentation through branches, and helps recover from mistakes.
+
+Common challenges for software engineers and how to solve them
+
+Keeping up with rapid tech changes: Stay updated through continuous learning and using agile methods.
+
+Time pressure: Break work into smaller, manageable parts using frameworks like Scrum.
+
+Infrastructure limitations: Invest in the right tools and architecture to support efficient work.
+
+Changing requirements: Use modular design and agile methods to stay adaptable.
+
+Security issues: Learn about common threats and secure coding practices.
+
+Complex interfaces: Focus on usability and design software with users in mind.
+
+Types of software testing
+
+Unit testing: Tests individual parts of the code to ensure they work in isolation.
+
+Integration testing: Checks that modules work well together.
+
+System testing: Validates the complete system’s functionality and performance.
+
+Acceptance testing: Makes sure the software meets user needs and is ready for release.
+
+Part 2: Introduction to AI and Prompt Engineering
+
+What is prompt engineering and why does it matter?
+
+Prompt engineering is the process of crafting inputs to guide AI models like ChatGPT or image generators toward desired outputs. It’s important because it helps users get accurate, relevant, and useful results while minimizing confusion or bias.
+
+Benefits include:
+
+Better user experience by getting accurate results faster
+
+More flexibility in how the AI can be used across different domains
+
+Gives developers more control by framing how the AI responds
+
+Example of a vague vs improved prompt
+
+Vague: Draw a picture of a person.
+
+Improved: Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
+
+Why it’s better:
+
+It clearly states what the image should include
+
+It provides enough detail to avoid ambiguity
+
+It helps the model or artist understand exactly what’s needed
