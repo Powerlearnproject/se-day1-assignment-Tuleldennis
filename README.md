@@ -4,6 +4,12 @@ Software Engineering Day1 Assignment
 SE_Day1_Assignment SE_Day1_Assignment
 
 #Part 1: Introduction to Software Engineering
+Test code:
+Which of the following best describes software engineering? <stdin>a) The study of hardware components
+b) The process of designing, developing, and maintaining software
+c) The analysis of networking protocols
+d) The management of data storage systems
+ The process of designing, developing, and maintaining software
 
 Explain what software engineering is and discuss its importance in the technology industry. Software engineering is the application of engineering principles to develop, test, and maintain software, ensuring it's reliable, efficient, and secure.
 
